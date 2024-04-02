@@ -1,0 +1,5 @@
+{
+    "method": "GET",
+    "path": "/api/data",
+    "ip": "127.0.0.1"
+}
